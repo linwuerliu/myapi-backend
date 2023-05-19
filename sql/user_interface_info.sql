@@ -1,0 +1,7 @@
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (1, 1, 1, 8, 2, 0, '2023-05-13 15:20:45', '2023-05-15 15:43:55', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (8, 1, 1, 13, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:46:15', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (9, 2, 2, 23, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:46:15', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (10, 2, 2, 1, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:46:15', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (11, 1, 3, 1, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:46:15', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (12, 1, 3, 26, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:47:43', 0);
+INSERT INTO myapi.user_interface_info (id, userId, interfaceInfoId, totalNum, leftNum, status, createTime, updateTime, isDelete) VALUES (13, 2, 4, 15, 0, 0, '2023-05-15 15:46:15', '2023-05-15 15:46:15', 0);
